@@ -10,6 +10,8 @@ Result:
 ![Screenshot 2024-10-25 at 11 57 24 PM](https://github.com/user-attachments/assets/0a412ff8-1426-4aa8-9c6c-96713e610391)
 
 In terminal:
+
+
 <img width="922" alt="Screenshot 2024-10-25 at 11 57 37 PM" src="https://github.com/user-attachments/assets/d58f1eae-9e76-4c6b-81e3-b25834a5fadc">
 
 
